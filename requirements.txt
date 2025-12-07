@@ -1,0 +1,12 @@
+streamlit
+groq
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+faster-whisper
+edge-tts
+pandas
+pydantic
+pdfplumber

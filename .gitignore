@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# Audio output files
+*.mp3
+*.wav
+
+# OS generated files
+desktop.ini
+Thumbs.db
+
+# Logs
+logs/
