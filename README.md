@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩺 MedAgentSL – AI Medical Assistant (Sri Lanka)
 
 MedAgentSL is an AI-powered medical agent built using **Streamlit**, **Groq LLMs**, **LangChain**, **ChromaDB**, **PDF processing**, and **speech features**.  
@@ -22,3 +23,7 @@ It provides medical information, document-based question answering, and voice in
 
 ## 📁 Project Structure
 
+=======
+# MedAgentSL
+MedAgentSL is an intelligent medical AI assistant built using modern LLM technologies such as Groq LLaMA models, LangChain, Faster-Whisper, and Streamlit. It provides fast, conversational medical guidance designed especially for Sri Lankan users.
+>>>>>>> 6f3b9f5c0735814cb07851bb8cfc14d2fd71011c
