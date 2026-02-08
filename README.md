@@ -20,10 +20,6 @@ It provides medical information, document-based question answering, and voice in
 - 🔐 **Environment variable support** (`.env`)  
 
 ---
-
-## 📁 Project Structure
-
-=======
 # MedAgentSL
 MedAgentSL is an intelligent medical AI assistant built using modern LLM technologies such as Groq LLaMA models, LangChain, Faster-Whisper, and Streamlit. It provides fast, conversational medical guidance designed especially for Sri Lankan users.
 >>>>>>> 6f3b9f5c0735814cb07851bb8cfc14d2fd71011c
